@@ -1,67 +1,55 @@
-<h1 align="center">Hi, I'm Naim Ahmed 👋</h1>
-
-<div align="center">
-  <img src="assets/githubProfileBanner.jpg" width="100%" alt="Naim Ahmed Banner" />
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=devnaimkhan&style=for-the-badge&color=00C853&label=PROFILE+VIEWS" />
-
-<a href="https://github.com/devnaimkhan?tab=followers">
-<img src="https://img.shields.io/github/followers/devnaimkhan?style=for-the-badge&color=00C853&label=FOLLOWERS" />
-</a>
-
-<a href="https://www.linkedin.com/in/naim-ahmed-dev">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a developer who enjoys learning new technologies, solving problems, and turning ideas into practical software. I focus on building full-stack web applications, SaaS products, and AI-powered solutions. I believe in continuous learning and improving through hands-on projects.
-
----
-
-## 🛠️ Skills & Technologies
-
-**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
-
-**Backend:** Node.js, Express.js, REST APIs
-
-**AI & Automation:** Python, AI API Integration
-
-**Tools:** Git, GitHub, VS Code
-
-### Most Used Languages
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnaimkhan&layout=compact&theme=github_dark&hide_border=true&title_color=00C853" />
+  <img src="assets/githubProfileBanner.jpg" width="100%" alt="Naim Ahmed" />
 </p>
 
----
+## Hi, I'm Naim Ahmed 👋
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devnaimkhan&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=devnaimkhan&theme=dark&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853" />
-</p>
-
----
-
-<div align="center">
-
-### 💼 Business Inquiries
-
-<a href="mailto:naim.ahmed.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://linkedin.com/in/naim-ahmed-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-</div>
+### About Me
 
+I'm a developer who enjoys learning new technologies, solving problems, and building useful software. I focus on full-stack web development, SaaS applications, and AI integration. I believe in continuous learning and improving through hands-on experience.
 
+### GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devnaimkhan&show_icons=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devnaimkhan" alt="GitHub Streak" />
+</p>
+
+### Skills & Technologies
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnaimkhan" alt="Top Languages" />
+  </a>
+</p>
+
+**Frontend**
+- HTML5, CSS3, JavaScript
+- React.js
+- Tailwind CSS, Bootstrap
+
+**Backend**
+- Node.js, Express.js
+- REST API Development
+
+**AI & Automation**
+- Python
+- AI API Integration
+
+**Tools**
+- Git, GitHub
+- VS Code
+
+---
+
+<p align="center">
+  <i>💼 For business inquiries, contact me at <a href="mailto:naim.ahmed.dev@gmail.com">naim.ahmed.dev@gmail.com</a></i>
+</p>
