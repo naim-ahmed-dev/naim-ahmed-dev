@@ -17,7 +17,7 @@ I'm a developer who enjoys learning new technologies, solving problems, and buil
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnaimkhan&layout=compact&langs_count=6" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naim-ahmed-dev&layout=compact&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
