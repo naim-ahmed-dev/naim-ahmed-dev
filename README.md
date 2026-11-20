@@ -13,10 +13,6 @@
 
 I'm a developer who enjoys learning new technologies, solving problems, and building useful software. I focus on full-stack web development, SaaS applications, and AI integration. I believe in continuous learning and improving through hands-on experience.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devnaimkhan&show_icons=true" alt="GitHub Stats" />
-</p>
-
 ### Skills & Technologies
 
 <p align="center">
